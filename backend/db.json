@@ -1,0 +1,136 @@
+{
+  "students": [
+    {
+      "firstName": "Ram",
+      "lastName": "Kumar",
+      "gender": "male",
+      "dob": "2022-07-13",
+      "age": 23,
+      "phoneNo": 12312312,
+      "rollNo": 3123123,
+      "registerNo": 123123123,
+      "department": "CSE",
+      "id": 6
+    },
+    {
+      "firstName": "Ritheesh",
+      "lastName": "Gowda",
+      "gender": "male",
+      "dob": "2022-07-21",
+      "age": 45,
+      "phoneNo": 348320989,
+      "rollNo": 23,
+      "registerNo": 123213123123,
+      "department": "CSE",
+      "id": 7
+    },
+    {
+      "firstName": "prashanth",
+      "lastName": "kumar",
+      "gender": "male",
+      "dob": "2022-06-14",
+      "age": 23,
+      "phoneNo": 9567677767,
+      "rollNo": 12344,
+      "registerNo": 9302984384,
+      "department": "CSE",
+      "id": 8
+    },
+    {
+      "firstName": "priya",
+      "lastName": "sankar",
+      "gender": "female",
+      "dob": "2022-02-18",
+      "age": 23,
+      "phoneNo": 9332323223,
+      "rollNo": 23,
+      "registerNo": 961823323,
+      "department": "CSE",
+      "id": 9
+    },
+    {
+      "firstName": "Ubaid",
+      "lastName": "U",
+      "gender": "male",
+      "dob": "2022-12-29",
+      "age": 24,
+      "phoneNo": 94444232323,
+      "rollNo": 2324234,
+      "registerNo": 9238983244,
+      "department": "MECH",
+      "id": 10
+    },
+    {
+      "firstName": "ramesh",
+      "lastName": "R",
+      "gender": "male",
+      "dob": "2022-07-13",
+      "age": 34,
+      "phoneNo": 880909809090,
+      "rollNo": 3432423342,
+      "registerNo": 234234892384,
+      "department": "IT",
+      "id": 11
+    },
+    {
+      "firstName": "Askar",
+      "lastName": "Mohammed",
+      "gender": "male",
+      "dob": "2022-01-20",
+      "age": 23,
+      "phoneNo": 2342342342,
+      "rollNo": 899,
+      "registerNo": 961820,
+      "department": "CE",
+      "id": 12
+    },
+    {
+      "firstName": "majunath",
+      "lastName": "E",
+      "gender": "male",
+      "dob": "2022-07-29",
+      "age": 22,
+      "phoneNo": 9879879889,
+      "rollNo": 38,
+      "registerNo": 29333893274,
+      "department": "CSE",
+      "id": 13
+    },
+    {
+      "firstName": "Alen",
+      "lastName": "steve",
+      "gender": "male",
+      "dob": "2010-11-13",
+      "age": 23,
+      "phoneNo": 9444376328,
+      "rollNo": 343,
+      "registerNo": 96188374,
+      "department": "AE",
+      "id": 14
+    },
+    {
+      "firstName": "amrutha",
+      "lastName": "R",
+      "gender": "female",
+      "dob": "2022-09-12",
+      "age": 23,
+      "phoneNo": 324234324,
+      "rollNo": 3453,
+      "registerNo": 961823423,
+      "department": "CE",
+      "id": 15
+    },
+    {
+      "firstName": "Ani",
+      "lastName": "sajin",
+      "gender": "",
+      "dob": "2000-02-24",
+      "age": 23,
+      "phoneNo": 2312312312,
+      "rollNo": 232,
+      "registerNo": 123123,
+      "department": "PE",
+      "id": 16
+    }
+  ]
+}
